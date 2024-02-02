@@ -1,0 +1,5 @@
+dependency_inspector
+/lock_files/*
+/registries/*
+/remotes_output/*
+/analyze_output/*
